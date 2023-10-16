@@ -1,0 +1,6 @@
+{
+    "train_l2": 99999,
+    "val_l2": 99999,
+    "test_l2": 99999,
+    "illegal_demotion": 99999
+}
