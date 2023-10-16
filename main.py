@@ -173,7 +173,6 @@ def move_row(sol):
 def main():
     E = evo.Environment()
 
-    print('here')
     # Add objectives
     E.add_fitness_criteria("train_l2", calculate_train_l2_norm)
     E.add_fitness_criteria("val_l2", calculate_val_l2_norm)
